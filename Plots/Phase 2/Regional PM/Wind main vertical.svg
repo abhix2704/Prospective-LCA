@@ -29,15 +29,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="1.3990357"
-     inkscape:cx="78.625587"
-     inkscape:cy="551.09388"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="1912"
+     inkscape:zoom="0.69951785"
+     inkscape:cx="-144.38516"
+     inkscape:cy="458.8875"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="figure_1" />
+     inkscape:current-layer="matplotlib.axis_7" />
   <metadata
      id="metadata2718">
     <rdf:RDF>
@@ -4749,47 +4749,6 @@
           </g>
         </g>
         <g
-           id="xtick_2">
-          <g
-             id="line2d_2">
-            <g
-               id="g4585">
-              <use
-                 xlink:href="#ma406119b49"
-                 x="58.061352"
-                 y="484.54663"
-                 style="stroke:#000000;stroke-width:0.8"
-                 id="use4583" />
-            </g>
-          </g>
-          <g
-             id="text_5">
-            <!-- −30 -->
-            <g
-               transform="matrix(0.08,0,0,-0.08,51.276351,497.27287)"
-               id="g4597">
-              <defs
-                 id="defs4589">
-                <path
-                   id="ArialMT-33"
-                   d="m 269,1209 562,75 q 97,-478 330,-689 233,-211 567,-211 397,0 670,275 274,275 274,682 0,387 -253,638 -253,252 -644,252 -159,0 -397,-62 l 63,494 q 56,-7 90,-7 360,0 647,187 288,188 288,579 0,309 -210,512 -209,204 -540,204 -328,0 -547,-207 -219,-206 -281,-618 l -563,100 q 103,565 468,876 366,311 910,311 375,0 690,-161 316,-161 483,-439 168,-278 168,-591 0,-296 -160,-540 -159,-244 -471,-388 406,-93 631,-389 225,-295 225,-739 Q 3269,753 2831,336 2394,-81 1725,-81 1122,-81 723,278 325,638 269,1209 Z"
-                   transform="scale(0.015625)" />
-              </defs>
-              <use
-                 xlink:href="#ArialMT-2212"
-                 id="use4591" />
-              <use
-                 xlink:href="#ArialMT-33"
-                 x="58.398438"
-                 id="use4593" />
-              <use
-                 xlink:href="#ArialMT-30"
-                 x="114.01367"
-                 id="use4595" />
-            </g>
-          </g>
-        </g>
-        <g
            id="xtick_3">
           <g
              id="line2d_3">
@@ -4831,47 +4790,6 @@
           </g>
         </g>
         <g
-           id="xtick_4">
-          <g
-             id="line2d_4">
-            <g
-               id="g4621">
-              <use
-                 xlink:href="#ma406119b49"
-                 x="140.34326"
-                 y="484.54663"
-                 style="stroke:#000000;stroke-width:0.8"
-                 id="use4619" />
-            </g>
-          </g>
-          <g
-             id="text_7">
-            <!-- −10 -->
-            <g
-               transform="matrix(0.08,0,0,-0.08,133.55826,497.27287)"
-               id="g4633">
-              <defs
-                 id="defs4625">
-                <path
-                   id="ArialMT-31"
-                   d="M 2384,0 H 1822 V 3584 Q 1619,3391 1289,3197 959,3003 697,2906 v 544 q 472,222 825,537 353,316 500,613 h 362 z"
-                   transform="scale(0.015625)" />
-              </defs>
-              <use
-                 xlink:href="#ArialMT-2212"
-                 id="use4627" />
-              <use
-                 xlink:href="#ArialMT-31"
-                 x="58.398438"
-                 id="use4629" />
-              <use
-                 xlink:href="#ArialMT-30"
-                 x="114.01367"
-                 id="use4631" />
-            </g>
-          </g>
-        </g>
-        <g
            id="xtick_5">
           <g
              id="line2d_5">
@@ -4894,36 +4812,6 @@
               <use
                  xlink:href="#ArialMT-30"
                  id="use4642" />
-            </g>
-          </g>
-        </g>
-        <g
-           id="xtick_6">
-          <g
-             id="line2d_6">
-            <g
-               id="g4650">
-              <use
-                 xlink:href="#ma406119b49"
-                 x="222.62517"
-                 y="484.54663"
-                 style="stroke:#000000;stroke-width:0.8"
-                 id="use4648" />
-            </g>
-          </g>
-          <g
-             id="text_9">
-            <!-- 10 -->
-            <g
-               transform="matrix(0.08,0,0,-0.08,218.17642,497.27287)"
-               id="g4657">
-              <use
-                 xlink:href="#ArialMT-31"
-                 id="use4653" />
-              <use
-                 xlink:href="#ArialMT-30"
-                 x="55.615234"
-                 id="use4655" />
             </g>
           </g>
         </g>
@@ -4954,36 +4842,6 @@
                  xlink:href="#ArialMT-30"
                  x="55.615234"
                  id="use4668" />
-            </g>
-          </g>
-        </g>
-        <g
-           id="xtick_8">
-          <g
-             id="line2d_8">
-            <g
-               id="g4676">
-              <use
-                 xlink:href="#ma406119b49"
-                 x="304.90707"
-                 y="484.54663"
-                 style="stroke:#000000;stroke-width:0.8"
-                 id="use4674" />
-            </g>
-          </g>
-          <g
-             id="text_11">
-            <!-- 30 -->
-            <g
-               transform="matrix(0.08,0,0,-0.08,300.45833,497.27287)"
-               id="g4683">
-              <use
-                 xlink:href="#ArialMT-33"
-                 id="use4679" />
-              <use
-                 xlink:href="#ArialMT-30"
-                 x="55.615234"
-                 id="use4681" />
             </g>
           </g>
         </g>
